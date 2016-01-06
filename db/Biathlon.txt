@@ -1,0 +1,11 @@
+Event,Gold,Silver,Bronze
+Men's 10 kilometres Sprint,Vincent Jay,Emil Hegle Svendsen,Jakov Fak
+Men's 12.5 kilometres Pursuit,Bjorn Ferry,Christoph Sumann,Vincent Jay
+Men's 15 kilometres Mass Start,Yevgeny Ustyugov,Martin Fourcade,Pavol Hurajt
+Men's 20 kilometres,Emil Hegle Svendsen,Ole Einar Bjorndalen,Sergey Novikov,
+Men's 4x7.5 kilometres Relay,Norway,Austria,Russia
+Women's 7.5 kilometres Sprint,Anastasia Kuzminova,Magdalena Neuner,Marie Dorin
+Women's 10 kilometres Pursuit,Magdalena Neuner,Anastasia Kuzminova,Marie Laure Brunet
+Women's 12.5 kilometres Mass Start,Magdalena Neuner,Olga Zaytseva,Simone Hauswald
+Women's 15 kilometres,Tora Berger,Yelena Khrustalyova,Darya Domracheva
+Women's 4x6 kilometres Relay,Canada,France,Germany

@@ -1,0 +1,213 @@
+Rk,Athlete,Gender,Age,Sport,Gold,Silver,Bronze,Total
+1,Bode Miller,Male,32,Alpine Skiing,1,1,1,3
+2,Johnny Spillane,Male,29,Nordic Combined,,3,,3
+3,Apolo Anton Ohno,Male,27,Short Track Speed Skating,,1,2,3
+4,Shani Davis,Male,27,Speed Skating,1,1,,2
+5,Bill Demong,Male,29,Nordic Combined,1,1,,2
+6,Lindsey Kildow-Vonn,Female,25,Alpine Skiing,1,,1,2
+7,Julia Mancuso,Female,25,Alpine Skiing,,2,,2
+8,Chad Hedrick,Male,32,Speed Skating,,1,1,2
+9,Katherine Reutter,Female,21,Short Track Speed Skating,,1,1,2
+10,J. R. Celski,Male,19,Short Track Speed Skating,,,2,2
+11,Steve Holcomb,Male,29,Bobsleigh,1,,,1
+12,Hannah Kearney,Female,23,Freestyle Skiing,1,,,1
+13,Evan Lysacek,Male,24,Figure Skating,1,,,1
+14,Steve Mesler,Male,31,Bobsleigh,1,,,1
+15,Justin Olsen,Male,22,Bobsleigh,1,,,1
+16,Curt Tomasevicz,Male,29,Bobsleigh,1,,,1
+17,Seth Wescott,Male,33,Snowboarding,1,,,1
+18,Shaun White,Male,23,Snowboarding,1,,,1
+19,David Backes,Male,25,Ice Hockey,,1,,1
+20,Kacey Bellamy,Female,22,Ice Hockey,,1,,1
+21,Dustin Brown,Male,25,Ice Hockey,,1,,1
+22,Caitlin Cahow,Female,24,Ice Hockey,,1,,1
+23,Ryan Callahan,Male,24,Ice Hockey,,1,,1
+24,Brett Camerota,Male,25,Nordic Combined,,1,,1
+25,Lisa Chesson,Female,23,Ice Hockey,,1,,1
+26,Julie Chu,Female,27,Ice Hockey,,1,,1
+27,Natalie Darwitz,Female,26,Ice Hockey,,1,,1
+28,Meryl Davis,Female,23,Figure Skating,,1,,1
+29,Chris Drury,Male,33,Ice Hockey,,1,,1
+30,Meghan Duggan,Female,22,Ice Hockey,,1,,1
+31,Molly Engstrom,Female,26,Ice Hockey,,1,,1
+32,Tim Gleason,Male,27,Ice Hockey,,1,,1
+33,Brian Hansen,Male,19,Speed Skating,,1,,1
+34,Erik Johnson,Male,21,Ice Hockey,,1,,1
+35,Jack Johnson,Male,23,Ice Hockey,,1,,1
+36,Patrick Kane,Male,21,Ice Hockey,,1,,1
+37,Ryan Kesler,Male,25,Ice Hockey,,1,,1
+38,Phil Kessel,Male,22,Ice Hockey,,1,,1
+39,Hilary Knight,Female,20,Ice Hockey,,1,,1
+40,Jonathan Kuck,Male,19,Speed Skating,,1,,1
+41,Jocelyne Lamoureux,Female,20,Ice Hockey,,1,,1
+42,Monique Lamoureux,Female,20,Ice Hockey,,1,,1
+43,Jamie Langenbrunner,Male,34,Ice Hockey,,1,,1
+44,Erika Lawler,Female,23,Ice Hockey,,1,,1
+45,Todd Lodwick,Male,33,Nordic Combined,,1,,1
+46,Ryan Malone,Male,30,Ice Hockey,,1,,1
+47,Trevor Marsicano,Male,20,Speed Skating,,1,,1
+48,Gigi Marvin,Female,22,Ice Hockey,,1,,1
+49,Brianne McLaughlin,Female,22,Ice Hockey,,1,,1
+50,Ryan Miller,Male,29,Ice Hockey,,1,,1
+51,Brooks Orpik,Male,29,Ice Hockey,,1,,1
+52,Zach Parise,Male,25,Ice Hockey,,1,,1
+53,Joe Pavelski,Male,25,Ice Hockey,,1,,1
+54,Jeret Peterson,Male,28,Freestyle Skiing,,1,,1
+55,Brian Rafalski,Male,36,Ice Hockey,,1,,1
+56,Angela Ruggiero,Female,30,Ice Hockey,,1,,1
+57,Bobby Ryan,Male,22,Ice Hockey,,1,,1
+58,Molly Schaus,Female,21,Ice Hockey,,1,,1
+59,Jenny Schmidgall-Potter,Female,31,Ice Hockey,,1,,1
+60,Kelli Stack,Female,22,Ice Hockey,,1,,1
+61,Paul Stastny,Male,24,Ice Hockey,,1,,1
+62,Ryan Suter,Male,25,Ice Hockey,,1,,1
+63,Hannah Teter,Female,23,Snowboarding,,1,,1
+64,Karen Thatcher,Female,25,Ice Hockey,,1,,1
+65,Tim Thomas,Male,35,Ice Hockey,,1,,1
+66,Jessie Vetter,Female,24,Ice Hockey,,1,,1
+67,Kerry Weiland,Female,29,Ice Hockey,,1,,1
+68,Charlie White,Male,22,Figure Skating,,1,,1
+69,Ryan Whitney,Male,26,Ice Hockey,,1,,1
+70,Jinelle Zaugg-Siergiej,Female,23,Ice Hockey,,1,,1
+71,Shannon Bahrke,Female,29,Freestyle Skiing,,,1,1
+72,Allison Baver,Female,29,Short Track Speed Skating,,,1,1
+73,Simon Cho,Male,18,Short Track Speed Skating,,,1,1
+74,Kelly Clark,Female,26,Snowboarding,,,1,1
+75,Kimberly Derrick,Female,24,Short Track Speed Skating,,,1,1
+76,Alyson Dudek,Female,19,Short Track Speed Skating,,,1,1
+77,Lana Gehring,Female,19,Short Track Speed Skating,,,1,1
+78,Travis Jayner,Male,27,Short Track Speed Skating,,,1,1
+79,Scotty Lago,Male,22,Snowboarding,,,1,1
+80,Jordan Malone,Male,25,Short Track Speed Skating,,,1,1
+81,Elana Meyers,Female,25,Bobsleigh,,,1,1
+82,Erin Pac,Female,29,Bobsleigh,,,1,1
+83,Andrew Weibrecht,Male,24,Alpine Skiing,,,1,1
+84,Bryon Wilson,Male,21,Freestyle Skiing,,,1,1
+85,Jeremy Abbott,Male,24,Figure Skating,,,,
+86,Ben Agosto,Male,28,Figure Skating,,,,
+87,Nick Alexander,Male,21,Ski Jumping,,,,
+88,Morgan Arritola,Female,23,Cross Country Skiing,,,,
+89,Emily Azevedo,Female,26,Bobsleigh,,,,
+90,Scotty Bahrke,Male,24,Freestyle Skiing,,,,
+91,Lowell Bailey,Male,28,Biathlon,,,,
+92,Lanny Barnes,Female,27,Biathlon,,,,
+93,Jeremy Barrett,Male,25,Figure Skating,,,,
+94,Evan Bates,Male,20,Figure Skating,,,,
+95,Nick Baumgartner,Male,28,Snowboarding,,,,
+96,Ryan Bedford,Male,23,Speed Skating,,,,
+97,Tanith Belbin,Female,25,Figure Skating,,,,
+98,Tony Benshoof,Male,34,Luge,,,,
+99,John Benton,Male,40,Curling,,,,
+100,Chuck Berkeley,Male,33,Bobsleigh,,,,
+101,Eric Bernotas,Male,38,Skeleton,,,,
+102,Gretchen Bleiler,Female,28,Snowboarding,,,,
+103,Rebekah Bradford,Female,26,Speed Skating,,,,
+104,Will Brandenburg,Male,23,Alpine Skiing,,,,
+105,Greg Bretz,Male,19,Snowboarding,,,,
+106,Holly Brooks,Female,27,Cross Country Skiing,,,,
+107,Tim Burke,Male,28,Biathlon,,,,
+108,Ashley Caldwell,Female,16,Freestyle Skiing,,,,
+109,Lauren Cholewinski,Female,21,Speed Skating,,,,
+110,Callan Chythlook-Sifsof,Female,20,Snowboarding,,,,
+111,Julia Clukey,Female,24,Luge,,,,
+112,Jimmy Cochran,Male,28,Alpine Skiing,,,,
+113,Caitlin Compton,Female,29,Cross Country Skiing,,,,
+114,Emily Cook,Female,30,Freestyle Skiing,,,,
+115,Stacey Cook,Female,25,Alpine Skiing,,,,
+116,Nick Cunningham,Male,24,Bobsleigh,,,,
+117,John Daly,Male,24,Skeleton,,,,
+118,Patrick Deneen,Male,22,Freestyle Skiing,,,,
+119,Caydee Denney,Female,16,Figure Skating,,,,
+120,Matt Depeters,Male,22,Freestyle Skiing,,,,
+121,Hailey Duke,Female,24,Alpine Skiing,,,,
+122,Amanda Evora,Female,25,Figure Skating,,,,
+123,Rachael Flatt,Female,17,Figure Skating,,,,
+124,Taylor Fletcher,Male,19,Nordic Combined Ski Jumping,,,,
+125,Chris Fogt,Male,26,Bobsleigh,,,,
+126,Tommy Ford,Male,20,Alpine Skiing,,,,
+127,Tucker Fredricks,Male,25,Speed Skating,,,,
+128,Kris Freeman,Male,29,Cross Country Skiing,,,,
+129,Peter Frenette,Male,17,Ski Jumping,,,,
+130,Michelle Gorgone,Female,26,Snowboarding,,,,
+131,Mark Grimmette,Male,39,Luge,,,,
+132,Faye Gulini,Female,17,Snowboarding,,,,
+133,Jay Hakkinen,Male,32,Biathlon,,,,
+134,Simi Hamilton,Male,22,Cross Country Skiing,,,,
+135,Erin Hamlin,Female,23,Luge,,,,
+136,Debbie Henry-McCormick,Female,36,Curling,,,,
+137,Elena Hight,Female,20,Snowboarding,,,,
+138,Nate Holland,Male,31,Snowboarding,,,,
+139,Jeff Isaacson,Male,26,Curling,,,,
+140,Lindsey Jacobellis,Female,24,Snowboarding,,,,
+141,Tyler Jewell,Male,32,Snowboarding,,,,
+142,Anders Johnson,Male,20,Ski Jumping,,,,
+143,Haley Johnson,Female,28,Biathlon,,,,
+144,Nicole Joraanstad,Female,29,Curling,,,,
+145,Dan Joye,Male,24,Luge,,,,
+146,Nolan Kasper,Male,20,Alpine Skiing,,,,
+147,Chris Klug,Male,37,Snowboarding,,,,
+148,Mike Kohn,Male,37,Bobsleigh,,,,
+149,Torin Koos,Male,29,Cross Country Skiing,,,,
+150,Garrott Kuzzy,Male,27,Cross Country Skiing,,,,
+151,Mark Ladwig,Male,29,Figure Skating,,,,
+152,Maria Lamb,Female,24,Speed Skating,,,,
+153,Steve Langton,Male,26,Bobsleigh,,,,
+154,Ted Ligety,Male,25,Alpine Skiing,,,,
+155,Jana Lindsey,Female,25,Freestyle Skiing,,,,
+156,Zach Lund,Male,30,Skeleton,,,,
+157,Chelsea Marshall,Female,23,Alpine Skiing,,,,
+158,Brian Martin,Male,36,Luge,,,,
+159,Chris Mazdzer,Male,21,Luge,,,,
+160,Megan McJames,Female,22,Alpine Skiing,,,,
+161,Alice McKennis,Female,20,Alpine Skiing,,,,
+162,Heather McPhie,Female,25,Freestyle Skiing,,,,
+163,Jamie Moriarty,Male,28,Bobsleigh,,,,
+164,Michael Morse,Male,28,Freestyle Skiing,,,,
+165,Mirai Nagasu,Female,16,Figure Skating,,,,
+166,John Napier,Male,23,Bobsleigh,,,,
+167,Andy Newell,Male,26,Cross Country Skiing,,,,
+168,Christian Niccum,Male,32,Luge,,,,
+169,Natalie Nicholson,Female,33,Curling,,,,
+170,Steve Nyman,Male,28,Alpine Skiing,,,,
+171,Elli Ochowicz,Female,26,Speed Skating,,,,
+172,Nick Pearson,Male,30,Speed Skating,,,,
+173,Noelle Pikus-Pace,Female,27,Skeleton,,,,
+174,Chris Plys,Male,22,Curling,,,,
+175,Allison Pottinger,Female,36,Curling,,,,
+176,Casey Puckett,Male,37,Freestyle Skiing,,,,
+177,Daron Rahlves,Male,36,Freestyle Skiing,,,,
+178,Kikkan Randall,Female,27,Cross Country Skiing,,,,
+179,Catherine Raney-Norman,Female,29,Speed Skating,,,,
+180,Heather Richardson,Female,20,Speed Skating,,,,
+181,Kaylin Richardson,Female,25,Alpine Skiing,,,,
+182,Michelle Roark,Female,35,Freestyle Skiing,,,,
+183,Nate Roberts,Male,27,Freestyle Skiing,,,,
+184,Wynn Roberts,Male,21,Biathlon,,,,
+185,Jennifer Rodriguez,Female,33,Speed Skating,,,,
+186,Shauna Rohbock,Female,32,Bobsleigh,,,,
+187,Jilleanne Rookard,Female,27,Speed Skating,,,,
+188,Michelle Rzepka,Female,26,Bobsleigh,,,,
+189,Emily Samuelson,Female,19,Figure Skating,,,,
+190,Bree Schaaf,Female,29,Bobsleigh,,,,
+191,Sarah Schleper,Female,30,Alpine Skiing,,,,
+192,Lacy Schnoor,Female,24,Freestyle Skiing,,,,
+193,Bill Schuffenhauer,Male,36,Bobsleigh,,,,
+194,John Shuster,Male,27,Curling,,,,
+195,Jason Smith,Male,26,Curling,,,,
+196,Leanne Smith,Female,22,Alpine Skiing,,,,
+197,James Southam,Male,31,Cross Country Skiing,,,,
+198,Laura Spector,Female,22,Biathlon,,,,
+199,Ryan St. Onge,Male,27,Freestyle Skiing,,,,
+200,Liz Stephen,Female,23,Cross Country Skiing,,,,
+201,Sara Studebaker,Female,25,Biathlon,,,,
+202,Marco Sullivan,Male,29,Alpine Skiing,,,,
+203,Megan Sweeney,Female,22,Luge,,,,
+204,Nancy Swider-Peltz Jr.,Female,23,Speed Skating,,,,
+205,Jeremy Teela,Male,33,Biathlon,,,,
+206,Katie Uhlaender,Female,25,Skeleton,,,,
+207,Louie Vito,Male,21,Snowboarding,,,,
+208,Bengt Walden,Male,36,Luge,,,,
+209,Graham Watanabe,Male,27,Snowboarding,,,,
+210,Johnny Weir,Male,25,Figure Skating,,,,
+211,Mitch Whitmore,Male,20,Speed Skating,,,,
+212,Jake Zamansky,Male,28,Alpine Skiing,,,,

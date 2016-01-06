@@ -1,0 +1,11 @@
+Event,Gold,Silver,Bronze
+Men's Downhill,Didier Defago,Aksel Lund Svindal,Bode Miller
+Men's Super G,Aksel Lund Svindal,Bode Miller,Andrew Weibrecht
+Men's Giant Slalom,Carlo Janka,Kjetil Jansrud,Aksel Lund Svindal
+Men's Slalom,Giuliano Razzoli,Ivica Kostelic,Andre Myhrer
+Men's Combined,Bode Miller,Ivica Kostelic,Silvan Zurbriggen
+Women's Downhill,Lindsey Kildow-Vonn,Julia Mancuso,Elisabeth Gorgl
+Women's Super G,Andrea Fischbacher,Tina Maze,Lindsey Kildow-Vonn
+Women's Giant Slalom,Viktoria Rebensburg,Tina Maze,Elisabeth Gorgl
+Women's Slalom,Maria Riesch,Marlies Schild,Sarka Zahrobska
+Women's Combined,Maria Riesch,Julia Mancuso,Anja Parson
